@@ -1,4 +1,8 @@
-## agnoster
+## [DEPRECATED] agnoster-mercurial
+
+> Deprecation notice: Since mercurial support has been merged into [theme-agnoster](https://github.com/oh-my-fish/theme-agnoster/) directly, this repository will be discontinued.
+
+---
 
 A ZSH theme optimized for people who use:
 
